@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileShare": {
+      "commandName": "Project",
+      "commandLineArgs": "-f -p 12334 -h ::1 -d \"FileShare.deps.json\""
+    }
+  }
+}
